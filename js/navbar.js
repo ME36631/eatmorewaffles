@@ -16,13 +16,13 @@ document.addEventListener("DOMContentLoaded", function() {
       </a>
       <div class="separator"></div> <!-- Line separator between profile and buttons -->
       <nav class="navbar-links">
-        <a href="https://me36631.github.io/eatmorewaffles/home"><i class="fa fa-home fa-lg"></i></a>
-        <a href="https://me36631.github.io/eatmorewaffles/games"><i class="fa fa-gamepad fa-lg"></i></a>
-        <a href="https://me36631.github.io/eatmorewaffles/music"><i class="fa fa-music fa-lg"></i></a>
-        <a href="https://me36631.github.io/eatmorewaffles/theater"><i class="fa fa-tv fa-lg"></i></a>
-        <a href="https://me36631.github.io/eatmorewaffles/forms"><i class="fa fa-clipboard-list fa-lg"></i></a>
-        <a href="https://me36631.github.io/eatmorewaffles/reviews"><i class="fa fa-star fa-lg"></i></a>
-        <a href="https://me36631.github.io/eatmorewaffles/contact" class="margin"><i class="fa fa-user fa-lg"></i></a>
+        <a href="/eatmorewaffles/home"><i class="fa fa-home fa-lg"></i></a>
+        <a href="/eatmorewaffles/games"><i class="fa fa-gamepad fa-lg"></i></a>
+        <a href="/eatmorewaffles/music"><i class="fa fa-music fa-lg"></i></a>
+        <a href="/eatmorewaffles/theater"><i class="fa fa-tv fa-lg"></i></a>
+        <a href="/eatmorewaffles/forms"><i class="fa fa-clipboard-list fa-lg"></i></a>
+        <a href="/eatmorewaffles/reviews"><i class="fa fa-star fa-lg"></i></a>
+        <a href="/eatmorewaffles/contact" class="margin"><i class="fa fa-user fa-lg"></i></a>
       </nav>
     </div>
   </div>`;
