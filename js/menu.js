@@ -26,7 +26,7 @@ const buttons = [
     { name: 'Mountian Bike Runner', image: '/eatmorewaffles/images/mountian-bike-runner.png', link: '/eatmorewaffles/Games/MountianBikeRunner' },
     { name: 'Freehand Skate', image: '/eatmorewaffles/images/freehand-skate.png', link: '/eatmorewaffles/Games/FreehandSkate' },
     { name: 'Falling Cubes', image: '/eatmorewaffles/images/falling-cubes.png', link: '/eatmorewaffles/Games/FallingCubes' },
-    { name: '8 Ball Pool', image: '/eatmorewaffles/images/8ballpool.png', link: '/eatmorewaffles/Games/8BallPool' },
+    { name: '8 Ball Pool', image: 'eatmorewaffles/images/8ballpool.png', link: '/eatmorewaffles/Games/8BallPool' },
     { name: 'Are You Human?', image: '/eatmorewaffles/images/are-you-human.png', link: '/eatmorewaffles/Games/AreyouHuman' },
     { name: 'Ball Blast', image: '/eatmorewaffles/images/ball-blast.png', link: '/eatmorewaffles/Games/BallBlast' },
     { name: 'Basket Goal', image: '/eatmorewaffles/images/basket-ball.png', link: '/eatmorewaffles/Games/BasketGoal' },
