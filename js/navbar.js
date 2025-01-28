@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  const defaultAvatar = "/eatmorewaffles/images/user.png";
+  const defaultAvatar = "https://codehs.com/uploads/fbd97756d141592f86710a5e655b8a4b";
   let userAvatar = null;
   const avatarUrl = userAvatar ? userAvatar : defaultAvatar;
   const navbarHTML = `<div class="navbar">
