@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const navbarHTML = `<div class="navbar">
     <div class="left">
       <a href="/home" class="logo">
-        <img src="/eatmorewaffles/images/favicon.png" alt="Waffles Logo" class="waffleimg" height="50" width="50">
+        <img src="https://codehs.com/uploads/fbd97756d141592f86710a5e655b8a4b" alt="Waffles Logo" class="waffleimg" height="50" width="50">
       </a>
       <h3 class="navbar-title">Waffles</h3>
     </div>
