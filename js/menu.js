@@ -1,10 +1,10 @@
 const buttons = [
     { name: '2048', image: 'https://codehs.com/uploads/05fa6c5469f4f54c0fa6c5e04b5c8051', link: '/eatmorewaffles/Games/2048' },
-    { name: 'Block Blast', image: '/eatmorewaffles/images/Blast.png', link: '/eatmorewaffles/Games/BlockBlast' },
-    { name: 'Domions', image: '/eatmorewaffles/images/Dominos.png', link: '/eatmorewaffles/Games/Dominoes' },
+    { name: 'Block Blast', image: 'https://codehs.com/uploads/210d31ed32cf3b80dbf0d0f6ee8c74c6', link: '/eatmorewaffles/Games/BlockBlast' },
+    { name: 'Domions', image: 'https://codehs.com/uploads/c400adcb35c991aa03d987730b29a78f' },
     { name: 'Drift Boss', image: 'https://codehs.com/uploads/7f3758605f9ebce9c0eacd984e27fd6d', link: '/eatmorewaffles/Games/DriftBoss' },
     { name: 'Drift Hunters', image: 'https://codehs.com/uploads/31a7a798b1ea657119eeb2fc0bfac610', link: '/eatmorewaffles/Games/DriftHunters' },
-    { name: 'Geometry Dash', image: '/eatmorewaffles/images/Geometrydash.png', link: '/eatmorewaffles/Games/GeometryDash' },
+    { name: 'Geometry Dash', image: 'https://codehs.com/uploads/661c4ab005b7a80c3bc3f9bc4bde842b' },
     { name: 'Geometry Dash Subzero', image: '/eatmorewaffles/images/subzero.png', link: '/eatmorewaffles/Games/GeometryDashSubzero' },
     { name: 'Geometry Dash Meltdown', image: '/eatmorewaffles/images/meltdown.png', link: '/eatmorewaffles/Games/GeometryDashMeltdown' },
     { name: 'OvO', image: '/eatmorewaffles/images/ovo.png', link: '/eatmorewaffles/Games/OvO' },
