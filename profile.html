@@ -1,33 +1,86 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Waffles</title>
-        <link rel="icon" type="image/x-icon" href="/eatmorewaffles/images/favicon.png">
-        <link rel="stylesheet" href="/eatmorewaffles/css/main.css">
-        <link rel="stylesheet" href="/eatmorewaffles/css/navbar.css">
+        
+        <link rel="icon" type="image/x-icon" href="/images/favicon.png">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/navbar.css">
+        <script src="/js/main.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-        <script src="/eatmorewaffles/js/main.js"></script>
-        <script src="/eatmorewaffles/js/navbar.js"></script>
-        <script src="/eatmorewaffles/js/profile"></script>
     </head>
+<script src="/js/navbar.js"></script><div id="navbar-container"></div>
+
     <body>
-        <div id="navbar-container"></div>
-        <center>
-            <img src="/eatmorewaffles/images/favicon.png" width="150px" height="150px">
-            <br><br>
-        </center>
-        <div id="particles-js"></div>
-        <script src="/eatmorewaffles/js/particles.js"></script>
-        <script src="/eatmorewaffles/js/particles-config.js"></script>
-        <div id="edit">
-            <label for="avatar-url">Avatar URL or Upload File</label>
-            <input type="text" id="avatar-url" placeholder="Enter Avatar URL (optional)">
-            <input type="file" id="avatar-file" accept="image/*">
-            <label for="user-name-input">Name</label>
-            <input type="text" id="user-name-input" placeholder="Enter Your Name">
-            <button onclick="saveProfile()">Save</button>
-        </div>
-    </body>
-</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+     
+    </style>
+</head>
+<body>
+
+
+
+    <script src="/js/profile.js"></script>
+</div>
+<center>
+<img src="/images/favicon.png" width="150px" height="150px">
+<br>
+<br>
+</center>
+<div id="particles-js"></div>
+<script src="/js/particles.js"></script>
+<script src="/js/particles-config.js"></script>
+<style>
+  #edit {
+    background-color: lightblue;  /* Light blue background */
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+  }
+
+  #edit label {
+    display: block;
+    margin-bottom: 8px;
+    color: tan;  /* Tan color for labels */
+    font-weight: bold;
+  }
+
+  #edit input[type="text"],
+  #edit input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+
+  #edit button {
+    background-color: tan;  /* Tan button background */
+    color: white;  /* White text */
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  #edit button:hover {
+    background-color: #d19f6a; /* Slightly darker tan on hover */
+  }
+</style>
+
+<div id="edit">
+  <label for="avatar-url">Avatar URL or Upload File</label>
+  <input type="text" id="avatar-url" placeholder="Enter Avatar URL (optional)">
+  <input type="file" id="avatar-file" accept="image/*">
+  <label for="user-name-input">Name</label>
+  <input type="text" id="user-name-input" placeholder="Enter Your Name">
+  <button onclick="saveProfile()">Save</button>
+</div>
