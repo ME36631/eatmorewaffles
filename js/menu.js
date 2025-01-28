@@ -1,5 +1,5 @@
 const buttons = [
-    { name: '2048', image: '/eatmorewaffles/images/2408.png', link: '/eatmorewaffles/Games/2048' },
+    { name: '2048', image: 'https://codehs.com/uploads/05fa6c5469f4f54c0fa6c5e04b5c8051', link: '/eatmorewaffles/Games/2048' },
     { name: 'Block Blast', image: '/eatmorewaffles/images/Blast.png', link: '/eatmorewaffles/Games/BlockBlast' },
     { name: 'Domions', image: '/eatmorewaffles/images/Dominos.png', link: '/eatmorewaffles/Games/Dominoes' },
     { name: 'Drift Boss', image: 'https://codehs.com/uploads/7f3758605f9ebce9c0eacd984e27fd6d', link: '/eatmorewaffles/Games/DriftBoss' },
