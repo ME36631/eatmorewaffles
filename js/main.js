@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
+    document.title = "hi im rees i like big sugar daddies";
     const body = document.body;
     const sayings = [
         "Thou Shalt Eat Waffles",
