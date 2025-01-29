@@ -1,5 +1,5 @@
-window.onload = function {
-const avatar = localStorage.getItem('avatar');
+window.onload = function() {
+    const avatar = localStorage.getItem('avatar');
     const name = localStorage.getItem('name');
 
     if (avatar) {
