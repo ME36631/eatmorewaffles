@@ -1,4 +1,3 @@
-window.onload = function() {
     const avatar = localStorage.getItem('avatar');
     const name = localStorage.getItem('name');
 
@@ -43,7 +42,7 @@ window.onload = function() {
     localStorage.setItem('name', name);
     document.getElementById('user-name').innerText = name;
     document.getElementById('profile-modal').style.display = 'none'; // Close modal
-  }
+  
 
   // Close Modal without saving
   function closeModal() {
