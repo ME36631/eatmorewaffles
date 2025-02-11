@@ -1,3 +1,5 @@
+document.title = "Waffles - Discontinued"
+
 document.addEventListener("DOMContentLoaded", function() {
     const body = document.body;
     const sayings = [
